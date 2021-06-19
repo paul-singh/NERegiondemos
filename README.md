@@ -1,5 +1,7 @@
-<!--# NERegiondemos
---# Purview -->
+<!--
+# NERegiondemos
+# Purview 
+-->
 
 # Deploy Azure Purview (Preview)  {Testing ONLY}
 
