@@ -6,15 +6,17 @@
 # Deploy Azure Purview (Preview)  {Testing ONLY}
 
 This template creates a single instance of Azure Purview (Public Preview)
-Create An Azure Purview Instance
+Create An Azure Purview Instance 
+<br>
 <a href="https://azuredeploy.net" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-
+<br>
 Vizualize the Deployment
 <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/DarylsCorner/ARM-Templates/master/vm-from-user-image/azuredeploy.json" target="_blank">
   <img src="http://armviz.io/visualizebutton.png"/>
 </a>
+
 
 Note:
 1) You can deploy a maximum of 3 Purview instances during the public preview. Typically an orginization works off of one master data catalog for governance, so typically only one is need... well two if you want to create a test instance.
