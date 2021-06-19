@@ -1,7 +1,7 @@
 <!--# NERegiondemos
 --# Purview -->
 
-# Deploy a single instance of Azure Purview (Preview) 
+# Deploy Azure Purview (Preview)  {Testing ONLY}
 
 Create An Azure Purview Instance  - <a href="https://azuredeploy.net" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
