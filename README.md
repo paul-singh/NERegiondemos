@@ -18,7 +18,7 @@ Vizualize the Deployment
 <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/DarylsCorner/ARM-Templates/master/vm-from-user-image/azuredeploy.json" target="_blank">
   <img src="http://armviz.io/visualizebutton.png"/>
 </a>
-
+<br>
 
 Note:
 1) You can deploy a maximum of 3 Purview instances during the public preview. Typically an orginization works off of one master data catalog for governance, so typically only one is need... well two if you want to create a test instance.
