@@ -1,5 +1,5 @@
---# NERegiondemos
---# Purview
+<!--# NERegiondemos
+--# Purview -->
 
 # Deploy a single instance of Azure Purview (Preview) 
 
