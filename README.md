@@ -14,6 +14,7 @@ Create An Azure Purview Instance
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 <br>
+<br>
 Vizualize the Deployment
 <br>
 <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/DarylsCorner/ARM-Templates/master/vm-from-user-image/azuredeploy.json" target="_blank">
