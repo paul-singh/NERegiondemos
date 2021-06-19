@@ -23,7 +23,7 @@ Vizualize the Deployment
 <br>
 
 Note:
-1) You can deploy a maximum of 3 Purview instances during the public preview. Typically an orginization works off of one master data catalog for governance, so typically only one is need... well two if you want to create a test instance.
+1) You can deploy a maximum of 3 Purview instances during the public preview. Typically an orginization works off of one master data catalog for governance, so typically only one is needed... or two if you want to create a test instance.
 2) You can deploy Azure Purview instance in any Azure Region currently supported by the Purview Preview. Recommend Brazil for testing, due to large Purview capacity at this time during public preview.
 
 For more information, see here:
