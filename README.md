@@ -10,10 +10,7 @@ This template creates a single instance of Azure Purview (Public Preview)
 <br>
 Create An Azure Purview Instance 
 <br>
-[![Deploy to Azure]
-http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-azure-search-create%2Fazuredeploy.json)
-![image](https://user-images.githubusercontent.com/9942991/122655371-ac8f1800-d106-11eb-84e9-2bfc333d2e1a.png)
-
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.storage%2Fstorage-account-create%2Fazuredeploy.json)
 <!--<a href="https://azuredeploy.net" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a> 
