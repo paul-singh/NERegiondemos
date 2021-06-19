@@ -7,6 +7,7 @@
 
 This template creates a single instance of Azure Purview (Public Preview)
 <br>
+<br>
 Create An Azure Purview Instance 
 <br>
 <a href="https://azuredeploy.net" target="_blank">
