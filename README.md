@@ -28,5 +28,5 @@ Note:
 
 2) You can deploy Azure Purview instance in any Azure Region currently supported by the Purview Preview. Recommend Brazil for testing, due to large Purview capacity at this time during public preview.
 
-For more information, see here:
+For more information on Azure Purview, please click here:
 https://docs.microsoft.com/en-us/azure/purview/overview
